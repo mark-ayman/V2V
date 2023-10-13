@@ -1,3 +1,0 @@
-MATH/MATH.o: ../MATH/MATH.c ../MATH/MATH.h
-
-../MATH/MATH.h:

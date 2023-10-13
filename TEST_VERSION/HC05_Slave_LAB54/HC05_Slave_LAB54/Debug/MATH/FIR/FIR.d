@@ -1,3 +1,0 @@
-MATH/FIR/FIR.o: ../MATH/FIR/FIR.c ../MATH/FIR/FIR.h
-
-../MATH/FIR/FIR.h:
